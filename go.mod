@@ -6,8 +6,7 @@ require (
 	github.com/aiteung/atdb v0.1.7
 	github.com/aiteung/musik v0.0.5
 	github.com/gofiber/fiber/v2 v2.52.4
-	github.com/indrariksa/cobapakcage v0.0.6
-	github.com/indrariksa/ws-indra2024 v0.0.0-20240405064805-5df20c5feb2f
+	github.com/qintharganteng/cobapackagegolang v0.0.5
 	github.com/whatsauth/whatsauth v0.2.9
 	go.mau.fi/whatsmeow v0.0.0-20240327124018-350073db195c
 	go.mongodb.org/mongo-driver v1.15.0
@@ -36,7 +35,6 @@ require (
 	github.com/mattn/go-sqlite3 v1.14.22 // indirect
 	github.com/microsoft/go-mssqldb v1.0.0 // indirect
 	github.com/montanaflynn/stats v0.7.1 // indirect
-	github.com/qintharganteng/cobapackagegolang v0.0.3 // indirect
 	github.com/rivo/uniseg v0.4.4 // indirect
 	github.com/rs/zerolog v1.32.0 // indirect
 	github.com/savsgio/gotils v0.0.0-20230208104028-c358bd845dee // indirect
