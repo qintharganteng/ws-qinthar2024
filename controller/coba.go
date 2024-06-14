@@ -81,7 +81,7 @@ func GetPresensiID(c *fiber.Ctx) error {
 // @Tags Presensi
 // @Accept json
 // @Produce json
-// @Param request body Presensi true "Payload Body [RAW]"
+// @Param request body ReqPresensi true "Payload Body [RAW]"
 // @Success 200 {object} Presensi
 // @Failure 400
 // @Failure 500
