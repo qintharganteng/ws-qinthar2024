@@ -17,7 +17,7 @@
     "host": "ws-qinthar2024-48d72259230b.herokuapp.com",
     "basePath": "/",
     "paths": {
-        "/ins": {
+        "/insert": {
             "post": {
                 "description": "Input data presensi.",
                 "consumes": [
