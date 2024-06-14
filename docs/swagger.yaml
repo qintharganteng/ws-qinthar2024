@@ -1,0 +1,15 @@
+basePath: /
+host: ws-qinthar2024-48d72259230b.herokuapp.com
+info:
+  contact:
+    email: 714220058@ulbi.ac.id
+    name: API Support
+    url: https://github.com/qintharganteng
+  description: This is a sample swagger for Fiber
+  title: TES SWAGGER ULBI
+  version: "1.0"
+paths: {}
+schemes:
+- https
+- http
+swagger: "2.0"
